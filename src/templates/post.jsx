@@ -31,7 +31,6 @@ export default function PostTemplate({ data, pageContext }) {
                 
         <div>
           {/* <h1>{post.title}</h1> */}
-                  {/* eslint-disable-next-line react/no-danger */}
                   
           <div className='post-body' dangerouslySetInnerHTML={{ __html: postNode.html }} />
           <div className="post-meta">

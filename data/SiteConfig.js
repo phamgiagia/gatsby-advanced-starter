@@ -1,13 +1,13 @@
 const config = {
-  siteTitle: "Hai Pham Blog, Công nghệ, Thể thao và cuộc sống.", // Site title.
-  siteTitleShort: "Hai Pham Tech Blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: "Hai Pham Blog", // Alternative site title for SEO.
+  siteTitle: "Leapor News.", // Site title.
+    siteTitleShort: "Leapor News.", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+    siteTitleAlt: "Leapor News.", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
     siteUrl: "https://www.leapor.com/", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "Learn Work Sport Eat Sleep Repeat, Tech blog and life.", // Website description used for RSS feeds/meta description tag.
+    siteDescription: "Leapor News.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
-    siteRssTitle: "Hai Pham Blog, Công nghệ, Thể thao và cuộc sống.", // Title of the RSS feed
+    siteRssTitle: "Leapor News.", // Title of the RSS feed
   siteFBAppID: "", // FB Application ID for using app insights
   googleAnalyticsID: "haipham", // GA tracking ID.
   disqusShortname: "", // Disqus shortname.

@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default () => {
+const NotFound = () => {
     return (
         <div>Trang bạn cần tìm không tồn tại. Quay lại trang chủ nhé.</div>
     )
 }
+
+export default NotFound
